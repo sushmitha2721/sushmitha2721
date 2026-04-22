@@ -1,23 +1,88 @@
-<h1 align="center">Hi 👋, I'm Sushmitha Kaparthi</h1>
-<h3 align="center">A passionate data analyst from UK</h3>
+<h1 align="center">Hi there, I'm Sushmitha Kaparthi 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha2721&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha2721" /> </p>
+<h3 align="center">Data Analyst | PL-300 Certified | MSc Data Science | Derby, UK 🇬🇧</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmitha2721" alt="sushmitha2721" /></a> </p>
-
-- 🔭 I’m currently working on **Loan Lifecycle & Risk Intelligence Platform**
-
-- 🌱 I’m currently learning **databricks, snowflake**
-
-- 📫 How to reach me **sushmithakaparthi278@gmail.com**
-
-- 📄 Know about my experiences (Current Role Junior Data Analyst Intern (Hybrid) at Fortray Global Services Ltd, London)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushmitha-kaparthi-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushmitha-kaparthi-data-analyst" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/de22 3xh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="de22 3xh" height="30" width="40" /></a>
+<p align="center">
+  <em>Turning raw data into decisions that matter — SQL, Python, Power BI & Tableau</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushmitha-kaparthi-data-analyst">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sushmithakaparthi278@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sushmitha2721">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🏢 **Junior Data Analyst Intern** at **Fortray Global Services Ltd**, London
+- 🎓 **MSc Data Science** — University of Hertfordshire, UK
+- 🏅 **PL-300 Microsoft Certified** Power BI Data Analyst
+- 📍 Based in **Derby, UK** | Full Working Rights
+- 🌱 Currently learning **Databricks** and **Snowflake**
+- 🔭 Currently building a **Loan Lifecycle & Risk Intelligence Platform** (Databricks + Snowflake + Power BI)
+- 💬 Ask me about **SQL analytics, Power BI dashboards, Python data pipelines**
+- 📫 Reach me at **sushmithakaparthi278@gmail.com**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data & Analytics Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Other Skills
+`Data Cleaning` `ETL Pipelines` `Data Modeling` `Dashboard Creation` `KPI Reporting`
+`Cohort Analysis` `RFM Segmentation` `A/B Testing` `Statistical Modeling` `Data Storytelling`
+
+---
+
+## 💼 Experience
+
+### 🏢 Junior Data Analyst Intern — Fortray Global Services Ltd, London
+**Jun 2025 – Present | Hybrid**
+
+- 📊 Cleaned and analysed **1M+ record datasets**, improving operational efficiency by **20%**
+- 📈 Built and maintained **10+ interactive dashboards** in Power BI, Tableau & Excel, increasing KPI visibility by **30%**
+- 🗄️ Applied SQL for data extraction and manipulation, reducing reporting time by **40%**
+- 🤝 Collaborated with **5+ stakeholders** to deliver insights that contributed to **15% revenue growth**
+- ✅ Maintained **99.9% data quality** through rigorous validation and integrity checks
+- 🎤 Presented findings to both technical and non-technical audiences, improving cross-functional understanding by **25%**
+
+---
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushmitha2721&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Data is the new oil — I help businesses refine it."</i>
+</p>
